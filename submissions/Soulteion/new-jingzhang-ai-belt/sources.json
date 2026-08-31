@@ -63,12 +63,12 @@
     },
     {
       "id": "CASE-CAMBRIDGE-SP",
-      "url": "https://www.cambridgesciencepark.co.uk",
+      "url": "https://www.cambridgesciencepark.co.uk/about",
       "source_type": "background_reference",
-      "usage": "Background comparison only; not a statutory or authoritative basis. Cambridge Science Park as university-anchored garden campus model.",
+      "usage": "Background comparison only; not a statutory or authoritative basis. Cambridge Science Park About page describing university-anchored, low-density garden campus model.",
       "accessed_date": "2026-08-27",
       "publisher": "Cambridge Science Park / TTP Group",
-      "limitations": "Land policy and institutional framework differ from this proposal."
+      "limitations": "Land policy and institutional framework differ from this proposal; specific lease/tenure data not used."
     },
     {
       "id": "CASE-TEL-AVIV",
@@ -100,21 +100,21 @@
     },
     {
       "id": "CASE-HANGZHOU-FUTURE",
-      "url": "https://www.hangzhou.gov.cn",
+      "url": "https://www.hangzhou.gov.cn/col/col1229453591/index.html",
       "source_type": "background_reference",
-      "usage": "Background comparison only; not a statutory or authoritative basis. Scenario-opening and talent-policy-driven agglomeration model.",
+      "usage": "Background comparison only; not a statutory or authoritative basis. Hangzhou Future Sci-Tech City (未来科技城) policy and development page.",
       "accessed_date": "2026-08-27",
       "publisher": "Hangzhou Municipal Government",
-      "limitations": "Talent policy and market context differ from Haidian."
+      "limitations": "Talent policy and market context differ from Haidian; specific incentive data not used."
     },
     {
       "id": "CASE-SHENZHEN-BAY",
-      "url": "https://www.sznews.com",
+      "url": "https://www.sznews.com/news/content/node_70794.htm",
       "source_type": "background_reference",
-      "usage": "Background comparison only; not a statutory or authoritative basis. Anchor-enterprise-driven cluster model.",
+      "usage": "Background comparison only; not a statutory or authoritative basis. Shenzhen Bay Ecological Technology Park public reporting on anchor-enterprise cluster model.",
       "accessed_date": "2026-08-27",
       "publisher": "Shenzhen Special Zone Daily / Shenzhen Bay Ecological Technology Park",
-      "limitations": "Industry chain maturity and policy environment differ."
+      "limitations": "Industry chain maturity and policy environment differ; specific enterprise data not used."
     },
     {
       "id": "CASE-TOKYO-BAY",

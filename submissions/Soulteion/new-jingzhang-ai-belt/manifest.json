@@ -50,13 +50,13 @@
       "path": "sources.json",
       "role": "sources",
       "required": true,
-      "sha256": "1561658c70d5816f281b806898e5d6f6924091a684c2abe6db574cec66f2d80b"
+      "sha256": "b9e4002713982072a0599992bc2f41ea78f42dc4c1098279dc557316324f3977"
     },
     {
       "path": "self_check.json",
       "role": "self_check",
       "required": true,
-      "sha256": "e994c901c49ca07d8477087055ede6b048b47247d04b6702f56d7f8528c041c4"
+      "sha256": "42e586bac42b33cea690e13be06f694aa5f81e9fa4284a5fc9abff2c41ba7cb0"
     },
     {
       "path": "compliance_matrix.json",
